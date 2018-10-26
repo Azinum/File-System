@@ -1,2 +1,3 @@
-vfs
-disks/*
+/vfs
+/disks/*
+
